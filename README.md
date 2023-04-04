@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chialukwem
 - 👀 I’m interested in building applications
-- 🌱 I’m currently learning JavaScript
+- 🌱 Web Developer and Cloud Engineer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me chialukwem@yahoo.com
 
